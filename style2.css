@@ -1,8 +1,59 @@
-.box
-{
-    color: blueviolet;
-    padding: 20px;
-    display: flex;
-    justify-content: stretch;
-    align-items: flex-end;
+body{
+    margin: 0px;
+    padding: 0px;
+
 }
+.web{
+    
+    text-align: center;
+    padding: 20px;
+    background-image: url(https://burst.shopifycdn.com/photos/red-daisy-on-white.jpg?width=1200&format=pjpg&exif=1&iptc=1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% ;
+} 
+    
+
+
+#first
+{
+    color: burlywood;
+    font-size: 60px;
+}
+
+.home{
+
+    color: beige;
+    display: flex;
+    justify-content: left;
+        font-size:20px;
+      background-size: auto;
+      
+}
+.contact{
+    color: beige;
+    margin-left: 500px;
+    padding:20px;
+    background-color: palevioletred;
+    font-size: 20px;
+    
+
+}
+#para1{
+    font-size: 30px;
+    font-weight: bold;
+}
+#para2{
+   margin-bottom: 0px;
+}
+#image{
+    size: 60px;
+}
+.ct{
+    text-align: center;
+    
+}
+
+
+  
+ 
